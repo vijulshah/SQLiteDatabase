@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Sep 15 14:38:07 IST 2019
+0.baseType=DIRECTORY
+0.base=D\:\\SQLLiteDatabase\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

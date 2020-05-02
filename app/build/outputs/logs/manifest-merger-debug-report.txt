@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\725f93f11ff33c4e6170b63c3ce84a44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f9b89f02d2920655934468fa80d04b8c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f9c2d69107c54c9b31c94f04bb262e6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\23b5bccce2bf749745f14a05a31769ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f8a551dcda11cd8e7a7aa9781d9c22a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\21a04fb778576d521906949042a996be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5483aeb5d3620b62249285fa1614773c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0f9364c21862723a8d526b5e516048f8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5a4776d18e40ca029acf0c9f29574df0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\49c66268d03533b47ba09cde0c6137fe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\18e2a26bb8d736a809f16286fb54e2ff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\217595fb3b2ff51bcdd158aef500a392\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f9b89f02d2920655934468fa80d04b8c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f9b89f02d2920655934468fa80d04b8c\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.ar.sqllitedatabase.MainActivity
+ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.ar.sqllitedatabase.AddActivity
+ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:19:9-49
+	android:name
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:19:19-46
+activity#com.ar.sqllitedatabase.UpdateActivity
+ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:20:19-49
+activity#com.ar.sqllitedatabase.ConstraintActivity
+ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:21:9-65
+	android:name
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml:21:19-53
+uses-sdk
+INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\725f93f11ff33c4e6170b63c3ce84a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\725f93f11ff33c4e6170b63c3ce84a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f9b89f02d2920655934468fa80d04b8c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f9b89f02d2920655934468fa80d04b8c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f9c2d69107c54c9b31c94f04bb262e6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f9c2d69107c54c9b31c94f04bb262e6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\23b5bccce2bf749745f14a05a31769ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\23b5bccce2bf749745f14a05a31769ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f8a551dcda11cd8e7a7aa9781d9c22a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f8a551dcda11cd8e7a7aa9781d9c22a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\21a04fb778576d521906949042a996be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\21a04fb778576d521906949042a996be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5483aeb5d3620b62249285fa1614773c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5483aeb5d3620b62249285fa1614773c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0f9364c21862723a8d526b5e516048f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0f9364c21862723a8d526b5e516048f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5a4776d18e40ca029acf0c9f29574df0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5a4776d18e40ca029acf0c9f29574df0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\49c66268d03533b47ba09cde0c6137fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\49c66268d03533b47ba09cde0c6137fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\18e2a26bb8d736a809f16286fb54e2ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\18e2a26bb8d736a809f16286fb54e2ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\217595fb3b2ff51bcdd158aef500a392\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vijul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\217595fb3b2ff51bcdd158aef500a392\AndroidManifest.xml:20:5-44
+INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+		ADDED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SQLLiteDatabase\app\src\main\AndroidManifest.xml
